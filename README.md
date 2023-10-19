@@ -17,4 +17,4 @@ Stream API. Потоки, повторные вызовы, основные ме
 
 Сборка проектов. Maven и Gradle
 * [Многомодульный проект на Maven](https://github.com/ischeglov/HW_Maven)
-* [Многомодульный проект на Gradle](https://github.com/AnnaGubkina/Multi-module-project-on-Gradle-HomeWork-4.2)
+* [Многомодульный проект на Gradle](https://github.com/ischeglov/HW_Gradle)

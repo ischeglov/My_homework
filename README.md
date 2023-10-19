@@ -11,3 +11,10 @@
 Stream API. Потоки, повторные вызовы, основные методы
 * ["Работа с числами"](https://github.com/ischeglov/HW_Stream_Numbers)
 * ["Перепись населения"](https://github.com/ischeglov/HW_Stream_Population_Census)
+
+Потоки ввода-вывода. Работа с файлами. Сериализация
+* [Задачи "Установка", "Сохранение", "Загрузка"]()
+
+Сборка проектов. Maven и Gradle
+* [Многомодульный проект на Maven](https://github.com/ischeglov/HW_Maven)
+* [Многомодульный проект на Gradle](https://github.com/AnnaGubkina/Multi-module-project-on-Gradle-HomeWork-4.2)

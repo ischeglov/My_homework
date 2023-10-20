@@ -18,3 +18,6 @@ Stream API. Потоки, повторные вызовы, основные ме
 Сборка проектов. Maven и Gradle
 * [Многомодульный проект на Maven](https://github.com/ischeglov/HW_Maven)
 * [Многомодульный проект на Gradle](https://github.com/ischeglov/HW_Gradle)
+
+Работа с файлами CSV, XML, JSON
+* [CSV - JSON парсер, XML - JSON парсер, JSON парсер](https://github.com/ischeglov/HW_CSV_XML_JSON)

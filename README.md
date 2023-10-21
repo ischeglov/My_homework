@@ -13,7 +13,7 @@ Stream API. Потоки, повторные вызовы, основные ме
 * ["Перепись населения"](https://github.com/ischeglov/HW_Stream_Population_Census)
 
 Потоки ввода-вывода. Работа с файлами. Сериализация
-* [Задачи "Установка", "Сохранение", "Загрузка"]()
+* [Задачи "Установка", "Сохранение", "Загрузка"](https://github.com/ischeglov/HW_IO_Streams_Serialization)
 
 Сборка проектов. Maven и Gradle
 * [Многомодульный проект на Maven](https://github.com/ischeglov/HW_Maven)

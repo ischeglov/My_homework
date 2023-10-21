@@ -21,3 +21,9 @@ Stream API. Потоки, повторные вызовы, основные ме
 
 Работа с файлами CSV, XML, JSON
 * [Задачи "CSV - JSON парсер", "XML - JSON парсер", "JSON парсер"](https://github.com/ischeglov/HW_CSV_XML_JSON)
+
+#### Блок 2. Тестирование программы
+
+  Тестирование кода  Unit-тесты и Mockito
+* [Использование JUnit](https://github.com/ischeglov/HW_JUnit)
+* [Тестирование сервиса отправки сообщений(Mockito)](https://github.com/ischeglov/Mockito)

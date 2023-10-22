@@ -32,4 +32,4 @@ Stream API. Потоки, повторные вызовы, основные ме
 
  Основы работы с сетью. Модель OSI
 * [Клиент-серверное приложение](https://github.com/ischeglov/HW_Client_Server_Application)
-* [Клиент-сервер с рюшечками]()
+* [Клиент-сервер с рюшечками](https://github.com/ischeglov/HW_Client_Server_Application_With_Frills)

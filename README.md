@@ -27,3 +27,9 @@ Stream API. Потоки, повторные вызовы, основные ме
   Тестирование кода  Unit-тесты и Mockito
 * [Использование JUnit](https://github.com/ischeglov/HW_JUnit)
 * [Тестирование сервиса отправки сообщений(Mockito)](https://github.com/ischeglov/Mockito)
+
+#### Блок 3. Работа с сетью
+
+ Основы работы с сетью. Модель OSI
+* [Клиент-серверное приложение](https://github.com/ischeglov/HW_Client_Server_Application)
+* [Клиент-сервер с рюшечками]()

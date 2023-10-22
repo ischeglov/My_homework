@@ -24,8 +24,10 @@ Stream API. Потоки, повторные вызовы, основные ме
 
 #### Блок 2. Тестирование программы
 
-Тестирование кода  Unit-тесты и Mockito
+Тестирование кода и Unit-тесты
 * [Использование JUnit](https://github.com/ischeglov/HW_JUnit)
+
+Mockito. Мокирование вызовов, Mock, Stub
 * [Тестирование сервиса отправки сообщений(Mockito)](https://github.com/ischeglov/Mockito)
 
 #### Блок 3. Работа с сетью
@@ -37,4 +39,9 @@ Stream API. Потоки, повторные вызовы, основные ме
 Протокол HTTP. Вызовы удаленных серверов
 * [Запрос на получение списка фактов о кошках](https://github.com/ischeglov/HW_HTTP_Protocol_Request_For_Cats)
 * [Чтение данных API NASA](https://github.com/ischeglov/HW_HTTP_Protocol_Reading_NASA_API_Data)
+
+#### Блок 4. Структура JVM
+
+JVM. Организация памяти, сборщики мусора, VisualVM
+* [Понимание JVM, Исследование JVM через VisualVM]()
 

@@ -43,5 +43,5 @@ Mockito. Мокирование вызовов, Mock, Stub
 #### Блок 4. Структура JVM
 
 JVM. Организация памяти, сборщики мусора, VisualVM
-* [Понимание JVM, Исследование JVM через VisualVM]()
+* [Понимание JVM, Исследование JVM через VisualVM](https://github.com/ischeglov/HW_JVM)
 

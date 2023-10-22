@@ -36,5 +36,5 @@
 
   Протокол HTTP. Вызовы удаленных серверов
 * [Запрос на получение списка фактов о кошках](https://github.com/ischeglov/HW_HTTP_Protocol_Request_For_Cats)
-* [Чтение данных API NASA]()
+* [Чтение данных API NASA](https://github.com/ischeglov/HW_HTTP_Protocol_Reading_NASA_API_Data)
 

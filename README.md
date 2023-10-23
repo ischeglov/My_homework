@@ -60,6 +60,9 @@ JVM. Организация памяти, сборщики мусора, VisualV
 Поведенческие шаблоны. Command, CoR, Observer, Iterator
 * [Iterator. Задача "Бесконечная итерация"](https://github.com/ischeglov/HW_Behavioral_Patterns_-_Iterator)
 
+Magics, DRY, SOLID
+* [Задача "Магазин"]()
+
 
 
 

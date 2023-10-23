@@ -51,6 +51,6 @@ JVM. Организация памяти, сборщики мусора, VisualV
 
 Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
 * [Builder. Задача "Люди"](https://github.com/ischeglov/HW_Design_Patterns_-_Builder)
-* [Singleton. Задача "Логгер"]()
+* [Singleton. Задача "Логгер"](https://github.com/ischeglov/HW_Design_Patterns_-_Singleton)
 
 

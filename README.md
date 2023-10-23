@@ -55,7 +55,11 @@ JVM. Организация памяти, сборщики мусора, VisualV
 
 Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
 * [Adapter. Задача "Калькулятор"](https://github.com/ischeglov/HW_Structural_Patterns_-_Adapter)
-* [Facade. Задача "Двоичный фасад"]()
+* [Facade. Задача "Двоичный фасад"](https://github.com/ischeglov/HW_Structural_Patterns_-_Facade)
+
+Поведенческие шаблоны. Command, CoR, Observer, Iterator
+* [Iterator. Задача "Бесконечная итерация"](https://github.com/ischeglov/HW_Behavioral_Patterns_-_Iterator)
+
 
 
 

@@ -54,7 +54,7 @@ JVM. Организация памяти, сборщики мусора, VisualV
 * [Singleton. Задача "Логгер"](https://github.com/ischeglov/HW_Design_Patterns_-_Singleton)
 
 Структурные шаблоны. Adapter, Proxy, Decorator, Facade, Flyweight
-* [Adapter. Задача "Калькулятор"]()
+* [Adapter. Задача "Калькулятор"](https://github.com/ischeglov/HW_Structural_Patterns_-_Adapter)
 * [Facade. Задача "Двоичный фасад"]()
 
 

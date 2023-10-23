@@ -45,3 +45,12 @@ Mockito. Мокирование вызовов, Mock, Stub
 JVM. Организация памяти, сборщики мусора, VisualVM
 * [Понимание JVM, Исследование JVM через VisualVM](https://github.com/ischeglov/HW_JVM)
 
+---
+
+## Модуль «Шаблоны проектирования»
+
+Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
+* [Builder. Задача "Люди"](https://github.com/ischeglov/HW_Design_Patterns_-_Builder)
+* [Singleton. Задача "Логгер"]()
+
+

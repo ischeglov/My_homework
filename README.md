@@ -69,4 +69,16 @@ Magics, DRY, SOLID
 
 #### Блок 1. Многопоточное программирование
 
+Многопоточное программирование. Работа с потоками
+* [Задача "Интервал значений"](https://github.com/ischeglov/HW_Multithreading_Range_Of_Values)
+
+Работа с синхронизацией. Synchronization, wait, notify
+* [Задача "Робот-доставщик"](https://github.com/ischeglov/HW_Multithreading_Delivery_Robot)
+
+Переменные многопоточной программы
+* [Задача "Генерация никнеймов"](https://github.com/ischeglov/HW_Multithreading_Nickname_Generation)
+
+Коллекции для параллельной работы
+* [Задача "Программа-анализатор"](https://github.com/ischeglov/HW_Multithreading_Analyzer_Program)
+
 
